@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-Have always interested in creating stuff that makes use of technologies such as photo/video editing, 3D printing, Robotics and now Wed Development.
+Have always interested in creating stuff that makes use of technologies such as photo/video editing, 3D printing, Robotics and now Web and Software Development.
 
 *   🌍  I'm based in Malaysia
 *   🖥️  See my portfolio at [cipherrave.github.io](http://cipherrave.github.io)
