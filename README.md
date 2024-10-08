@@ -9,7 +9,7 @@ Have always interested in creating stuff that makes use of technologies such as 
 *   🌍  I'm based in Malaysia
 *   🖥️  See my portfolio at [cipherrave.github.io](http://cipherrave.github.io)
 *   ✉️  You can contact me at [arif\_akmal@hotmail.com](mailto:arif_akmal@hotmail.com)
-*   🚀  I'm currently working on [Invoke Solutions](http://invokeisdata.com/)
+*   🚀  I'm currently working at [Invoke Solutions](http://invokeisdata.com/)
 *   🧠  I'm learning NextJS, Laravel, GraphQL
 *   🤝  I'm open to collaborating on Fun web based technologies (Progressive Web Apps, Electron, React Native, etcetera ad infinitum)
 
