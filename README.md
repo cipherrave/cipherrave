@@ -26,4 +26,4 @@ Have always interested in creating stuff that makes use of technologies such as 
 
 <a href="http://www.github.com/cipherrave"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cipherrave&stroke=f97316&background=22272e&ring=f97316&fire=f97316&currStreakNum=f97316&currStreakLabel=f97316&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="https://github.com/cipherrave" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipherrave&langs_count=10&title_color=f97316&text_color=f97316&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/cipherrave" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipherrave&langs_count=10&title_color=f97316&text_color=f97316&icon_color=ffffff&bg_color=22272e&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
